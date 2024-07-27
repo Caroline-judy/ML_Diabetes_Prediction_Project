@@ -63,3 +63,5 @@ Through these challenges, I gained valuable insights into data preprocessing, mo
 
 ## Conclusion
 This project demonstrates the potential of machine learning in predicting diabetes, highlighting its real-world implications. The model developed can assist healthcare providers in early detection and intervention, ultimately improving patient outcomes.
+
+Check out my Blog in Medium to know more about the Project: https://medium.com/@carolinejudy2002/predicting-diabetes-with-machine-learning-a-fun-dive-into-data-science-1453b2022239
